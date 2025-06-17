@@ -45,16 +45,6 @@
 🔗 [לצפייה בקוד >>](https://github.com/TamarGabay/whats-in-the-box)
 
 ---
-
-## 🛠️ טכנולוגיות עיקריות
-
-**Frontend:** React, Redux Toolkit, HTML5, CSS3, JavaScript  
-**Backend:** ASP.NET Core, Node.js, REST API  
-**Databases:** SQL Server, MongoDB  
-**Tools:** Git, GitHub, JWT, Entity Framework, Swagger, RabbitMQ
-
----
-
 ## 📫 יצירת קשר
 - 📧 g0556780416@gmail.com  
 - 📞 055-678-0416
